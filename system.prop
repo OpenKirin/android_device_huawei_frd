@@ -5,7 +5,7 @@ ro.sys.fw.dex2oat_thread_count=4
 ro.config.max_starting_bg=8
 ro.sys.fw.use_trim_settings=true
 
-ro.config.ipv4.mtu=1400
+ro.config.ipv4.mtu=1500
 media.stagefright.use-awesome=false
 ro.config.hw_dts=true
 ro.config.widevine_level3=true
@@ -16,7 +16,7 @@ ro.config.enable_iaware=true
 ro.hardware.alter=Hisilicon Kirin 950
 persist.sys.fingersense=1
 ro.opengles.version=196610
-ro.sf.lcd_density=480
+ro.sf.lcd_density=380
 
 # local
 net.tethering.noprovisioning=true
